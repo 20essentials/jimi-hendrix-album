@@ -1,0 +1,23 @@
+export const nameBand = 'JIMI HENDRIX';
+export let nameSongs = [
+	"PURPLE HAZE", /*1*/
+	"VOODOO CHILD ", /*2*/
+	"HEAR MY TRAIN A COMIN'", /*3*/
+	"STONE FREE - LIVE", /*4*/
+	"BURNING DESIRE", /*5*/
+	"VILLANOVA JUNCTION", /*6*/
+	" RED HOUSE", /*7*/
+	"SPANISH CASTLE MAGIC (LIVE)", /*8*/
+	"ALL ALONG THE WATCHTOWER", /*9*/
+	"FOXEY LADY", /*10*/
+	"IF 6 WAS 9", /*11*/
+	"THIRD STONE FROM THE SUN", /*12*/
+	"ARE YOU EXPERIENCED?", /*13*/
+	"STONE FREE", /*14*/
+	"HIGHWAY CHILE", /*15*/
+	"MAY THIS BE LOVE", /*16*/
+	"I DON'T LIVE TODAY", /*17*/
+	"THE WIND CRIES MARY", /*18*/
+	"MANIC DEPRESSION", /*19*/
+	"HEY JOE", /*20*/
+]
